@@ -1,0 +1,21 @@
+.color {
+    background-color: black;
+    color: white;
+    height: 730px;
+    width: 550px;
+    padding: 10px;
+    margin:auto;
+    font-family: roboto;
+}
+img {
+    height: 300px;
+    width: 150px;
+}
+.style {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.style1 {
+    margin-right: 10px;
+    padding-left: 10px;
+}
